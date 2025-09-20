@@ -1,5 +1,3 @@
 - Git lúc đầu khá khó hiểu.
 - Sau khi quen thì thấy nó rất mạnh mẽ.
 - Branching là tính năng tôi thích nhất.
-- Reset và Revert là hai khái niệm dễ nhầm lẫn.
-- Cần thực hành nhiều để không bị sai sót khi làm việc nhóm.
