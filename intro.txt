@@ -14,3 +14,10 @@ Rất vui được làm quen với mọi người.
 1. Lập trình C++
 2. Giao tiếp
 3. Làm việc nhóm
+
+--- KẾ HOẠCH HỌC TẬP ---
+1. Hoàn thành tốt các bài tập trên lớp.
+2. Dành 2 tiếng mỗi ngày để học thêm về Git và GitHub.
+3. Thực hiện một dự án cá nhân nhỏ để áp dụng kiến thức đã học.
+4. Tìm hiểu về các quy trình làm việc nhóm với Git như Git Flow.
+5. Đọc thêm các tài liệu và blog về lập trình.
