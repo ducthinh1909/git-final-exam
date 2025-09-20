@@ -1,0 +1,3 @@
+- Git lúc đầu khá khó hiểu.
+- Sau khi quen thì thấy nó rất mạnh mẽ.
+- Branching là tính năng tôi thích nhất.
