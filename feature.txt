@@ -1,0 +1,6 @@
+# Mô tả tính năng A" > feature.txt
+Tính năng này sẽ cho phép người dùng đăng ký tài khoản bằng email."
+Các bước thực hiện bao gồm:"
+- Tạo giao diện form đăng ký."
+- Xác thực dữ liệu đầu vào (email, mật khẩu)." 
+- Lưu thông tin người dùng vào cơ sở dữ liệu."  
