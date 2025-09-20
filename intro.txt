@@ -1,0 +1,16 @@
+--- GIỚI THIỆU CÁ NHÂN ---
+Xin chào, tôi là Lê Đức Thịnh.
+Hiện tôi đang là sinh viên khoa Công nghệ thông tin.
+Tôi đang học môn Lập trình mã nguồn mở và rất hứng thú với lập trình.
+Mục tiêu của tôi là trở thành một kỹ sư phần mềm chuyên nghiệp.
+Rất vui được làm quen với mọi người.
+
+--- SỞ THÍCH ---
+1. Đọc sách
+2. Chơi game
+3. Nghe nhạc
+
+--- KỸ NĂNG ---
+1. Lập trình C++
+2. Giao tiếp
+3. Làm việc nhóm
